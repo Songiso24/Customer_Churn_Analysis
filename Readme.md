@@ -57,6 +57,7 @@ Bottom line: The model is very effective at spotting customers who are at risk, 
 # Dashboard Overview
 # Preview
 <img width="483" height="272" alt="Image" src="https://github.com/user-attachments/assets/889954b1-fc98-4e87-ad5e-2cfc4717d960" />
+
 The Power BI dashboard provides business leaders with an intuitive way to explore churn patterns:
 
 Revenue & Churn KPIs: See total churn rate, number of customers lost, and revenue impact.
