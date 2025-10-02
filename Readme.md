@@ -1,5 +1,9 @@
 Customer Churn Prediction & Dashboard
 
+# Dataset Information
+The dataset was obtained from Kaggle and can be accessed
+
+
 # Project Overview
 This project analyzes customer churn for a telecom company by combining data analysis, predictive modeling, and a Power BI dashboard. It aims to identify which customers are most likely to leave, how much revenue is at risk, and what business factors drive churn.
 
@@ -24,8 +28,11 @@ Service Effect: Customers with Fiber Optic internet and those paying via Electro
 
 Contracts Matter: Customers on month-to-month contracts are far more likely to churn compared to one- or two-year contracts.
 
-🤖 Model Performance
+Feature Importance:
+<img width="487" height="288" alt="Image" src="https://github.com/user-attachments/assets/8bd10693-4f10-4425-80c7-315eefc0afda" />
 
+🤖 Model Performance
+<img width="227" height="77" alt="Image" src="https://github.com/user-attachments/assets/99362290-289a-4545-8be2-4bb7687d5a63" />
 The machine learning model achieved:
 
 Accuracy: 97%
@@ -65,5 +72,5 @@ Customer success teams can use the ML model’s predictions to focus retention e
 
 Financial teams can quantify revenue at risk and evaluate the ROI of retention programs.
 
-# In summary:
+# Conclusion
 The churn dashboard and prediction model empower decision-makers to detect early warning signs, intervene before customers leave, and reduce financial losses from churn.
