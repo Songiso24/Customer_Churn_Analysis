@@ -1,5 +1,4 @@
 Customer Churn Prediction & Dashboard
-https://github.com/user-attachments/assets/889954b1-fc98-4e87-ad5e-2cfc4717d960
 
 # Project Overview
 This project analyzes customer churn for a telecom company by combining data analysis, predictive modeling, and a Power BI dashboard. It aims to identify which customers are most likely to leave, how much revenue is at risk, and what business factors drive churn.
