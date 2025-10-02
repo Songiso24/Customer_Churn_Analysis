@@ -28,11 +28,16 @@ Service Effect: Customers with Fiber Optic internet and those paying via Electro
 
 Contracts Matter: Customers on month-to-month contracts are far more likely to churn compared to one- or two-year contracts.
 
-Feature Importance:
+# Feature Importance Preview
+
 <img width="487" height="288" alt="Image" src="https://github.com/user-attachments/assets/8bd10693-4f10-4425-80c7-315eefc0afda" />
 
-🤖 Model Performance
+# 🤖 Model Performance
+
+Classification Report
+
 <img width="227" height="77" alt="Image" src="https://github.com/user-attachments/assets/99362290-289a-4545-8be2-4bb7687d5a63" />
+
 The machine learning model achieved:
 
 Accuracy: 97%
