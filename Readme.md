@@ -66,4 +66,4 @@ Customer success teams can use the ML model’s predictions to focus retention e
 Financial teams can quantify revenue at risk and evaluate the ROI of retention programs.
 
 # In summary:
-The churn dashboard and prediction model empower decision-makers to detect early warning signs, intervene before customers leave, and reduce financial losses from churn.Customer Churn Prediction & Dashboard
+The churn dashboard and prediction model empower decision-makers to detect early warning signs, intervene before customers leave, and reduce financial losses from churn.
